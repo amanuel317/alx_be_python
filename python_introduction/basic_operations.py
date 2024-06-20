@@ -5,4 +5,4 @@ number2=2
 Subtraction of 10 and 5 is 5
 Multiplication of 10 and 5 is 50"""
 
-print("Addition of " + number1 + " and " + number2 + " is " + number1+number2)
+print(f"Addition of {number1} and {number2} + is {number1+number2}")
