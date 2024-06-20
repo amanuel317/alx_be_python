@@ -3,5 +3,5 @@ rate = 0.05
 time = 3
 
 # Calculate simple interest
-simple_intreset = (principal * rate * time)
-print(f"The simple interest is: {simple_intreset}")
+simple_interest = (principal * rate * time)
+print(f"The simple interest is: {simple_interest}")
