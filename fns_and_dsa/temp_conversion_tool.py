@@ -18,5 +18,5 @@ elif typewhat == 'C':
     temp_converted = convert_to_celsius(temp)
     print(f'{temp}°C is {temp_converted}°F')
 else:
-    print("Invalid temprature.Please enter a numeric value.")
+    print("Invalid temperature. Please enter a numeric value.")
         
